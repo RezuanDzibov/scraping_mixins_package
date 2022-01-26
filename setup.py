@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="scraping-mixins-RD_Arxh",
+    name="scraping-mixins",
     version="0.0.1",
     author="Rezuan Dzibov",
     author_email="rezuan.dzbov.work@gmail.com",
